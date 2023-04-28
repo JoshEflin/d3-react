@@ -24,9 +24,9 @@ const  App= () => array.map(()=>  (
   radius = {height / 2 - strokeWidth /2}
   eyeOffsetX = {120}
   eyeOffsetY = {70}
-  eyeRadius = {10+ Math.random()*5}
-  mouthWidth = {7+ Math.random()*9}
-  mouthRadius = {30+ Math.random()*10} />
+  eyeRadius = {10+ Math.random()*50}
+  mouthWidth = {7+ Math.random()*90}
+  mouthRadius = {30+ Math.random()*100} />
   )  
 )
 
